@@ -1,0 +1,10 @@
+/* styles.css */
+.background {
+  background-color:lightblue;
+  background-size: cover;
+  background-position: center;
+}
+.my-4 {
+  margin-top: 16px; /* Adjust top margin as needed */
+  margin-bottom: 16px; /* Adjust bottom margin as needed */
+}

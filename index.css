@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Whisper&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.TITLE-TEXT{
+  font-family: 'Whisper', cursive;
+
+}
